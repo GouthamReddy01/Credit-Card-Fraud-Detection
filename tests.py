@@ -1,3 +1,3 @@
-from django.contrib import admin
+from django.test import TestCase
 
-# Register your models here.
+# Create your tests here.
